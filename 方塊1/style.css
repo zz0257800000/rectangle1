@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+
+.page {
+  width: 100vw;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.header {
+  height: 10vh;
+  background-color: aqua;
+}
+
+.second {
+  justify-content: space-around;
+  align-items: center;
+  height: 40vh;
+}
+.second .secondArea {
+  width: 30%;
+  height: 80%;
+  background-color: aqua;
+}
+
+.third {
+  height: 40vh;
+}
+.third .thirdLeft {
+  width: 40%;
+  background-color: aqua;
+  margin-right: 5%;
+}
+.third .thirdReft {
+  width: 40%;
+  height: 100%;
+}
+
+.footer {
+  background-color: aqua;
+  height: 10vh;
+  margin-bottom: 0;
+}/*# sourceMappingURL=style.css.map */
